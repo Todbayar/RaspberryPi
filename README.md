@@ -1,2 +1,2 @@
-# RaspberryPi
-All python projects
+# Raspberry Pi
+Програмчлал
