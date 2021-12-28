@@ -1,7 +1,7 @@
 # Raspberry Pi эхлэх үед кодоо автоматаар ажиллуулхыг хүсвэл доорх 2 аргаар 
 # байнгын автоматаар ажиллуулах тохиргоог дагаад хийгээрэй
 # sudo apt update
-# sudp apt upgrade
+# sudo apt upgrade
 # sudo pip install git+https://github.com/nicmcd/vcgencmd.git
 # -p 26 нь удирдах хөл 
 # -t 60 нь сэнс ажиллах эхлэх температурын утга 
